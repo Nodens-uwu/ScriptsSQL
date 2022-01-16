@@ -5,7 +5,7 @@ body {
     padding: 3%;
     margin: 3%;
 }
-#cabecera {
+#master {
     font-weight: bold;
     background: darkcyan;
     color:white;
@@ -21,7 +21,7 @@ body {
     border: 1px solid #000;
 }
 
-#cabecera #tagline {
+#master #tagline {
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
