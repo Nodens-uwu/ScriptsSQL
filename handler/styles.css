@@ -36,6 +36,11 @@ body {
     vertical-align: middle;
 }
 
+#img {
+    margin-left: 35%;
+    width: 23%; 
+}
+
 #post {
     background: beige;
     padding: 1em;
