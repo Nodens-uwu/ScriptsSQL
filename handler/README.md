@@ -10,3 +10,4 @@
 - Sólo hace falta tener un mal día para que el hombre más cuerdo que existe enloquezca, esa es la distancia que separa al mundo del lugar en el que yo habito: un mal día, tan solo.
 - Mueres siendo un héroe o vives lo suficiente para ser un villano.
 - Yo no gano puntos por ser idealista, debo hacer lo que puedo con lo que tengo.
+---------------------------------------------------------------------------------------------------
